@@ -1,0 +1,26 @@
+# Виртуальное окружение Python
+.venv/
+venv/
+env/
+# Кэш Python
+__pycache__/
+.py[cod]
+$py.class
+# Сборки / дистрибутивы
+build/
+dist/
+.egg-info/
+# IDE (PyCharm)
+.idea/
+.vscode/
+# Временные и лог-файлы
+.log
+.tmp
+temp/
+# Бинарные файлы
+.exe
+.dll
+.so
+.dylib
+.o
+.bin
